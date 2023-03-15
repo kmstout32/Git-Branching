@@ -9,7 +9,7 @@
 * 'git commit -m message' - commit to local repo with message 
 
 
-## Information Commands
+### Information Commands
 * 'git status' - shows commit status of local repo
 * 'git log' - show commit log
 * 'git log --oneline' - show commit log (compact format)
